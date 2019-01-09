@@ -1,4 +1,4 @@
-package com.andersenlab.vy_ponamorev.ws;
+package ru.penzgtu.ponamorev.ws;
 
 // there are annotations - the way for determination out classes and methods which connect with web service technologies
 import javax.jws.WebMethod;
